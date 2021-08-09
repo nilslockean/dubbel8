@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		font-weight: bold;
+	}
+	h1 {
+		@apply text-5xl;
+	}
+	h2 {
+		@apply text-xl;
+	}
+
+	.container {
+		@apply mx-auto px-4;
+	}
+
+	.button {
+		@apply py-2 px-4 font-bold inline-block text-black transition-colors duration-150 bg-yellow-300 rounded-lg hover:bg-yellow-400;
+	}
+
+	main a:not(.button) {
+		text-decoration: underline;
+	}
+}
