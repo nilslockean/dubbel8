@@ -12,8 +12,8 @@ const config = {
 		target: '#svelte',
 		adapter: adapter({
 			// default options are shown
-			pages: 'build',
-			assets: 'build',
+			pages: '.svelte-kit/static/build',
+			assets: '.svelte-kit/static/build',
 			fallback: null
 		})
 	}
