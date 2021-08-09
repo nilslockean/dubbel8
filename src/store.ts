@@ -10,7 +10,7 @@ export type Navigation = NavItem[];
 export const navigation: Readable<Navigation> = readable([
 	{ path: '/', title: 'Hem' },
 	{ path: '/prova-pa', title: 'Prova på' },
-	{ path: '/prova-pa', title: 'Bokning' },
+	{ path: '/bokning', title: 'Bokning' },
 	{ path: '/om', title: 'Om oss' },
-	{ path: '/om', title: 'Kontakt' }
+	{ path: '/kontakt', title: 'Kontakt' }
 ]);
