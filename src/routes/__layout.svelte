@@ -1,14 +1,18 @@
 <script lang="ts">
 	import '../tailwind.css';
 	import Header from '$lib/header.svelte';
+	import NoScript from '$lib/noscript.svelte';
 	const year = new Date().getFullYear();
 </script>
 
-<div class="lg:grid min-h-screen" style="">
+<a href="#content" class="sr-only focus:not-sr-only ">Hoppa till innehåll</a>
+
+<div class="lg:grid min-h-screen font-serif">
 	<Header />
 
-	<main class="container py-4">
+	<main id="content" class="container py-4">
 		<div class="max-w-screen-md my-4 md:my-20 mx-auto md:px-8">
+			<NoScript />
 			<slot />
 		</div>
 	</main>
@@ -22,7 +26,7 @@
 
 <style>
 	.lg\:grid {
-		grid-template-columns: 280px 1fr;
+		grid-template-columns: 260px 1fr;
 		grid-template-rows: 1fr auto;
 	}
 </style>
