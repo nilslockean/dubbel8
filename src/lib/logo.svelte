@@ -1,4 +1,18 @@
-<svg class="flex-shrink-0 w-12 md:w-28 lg:w-44" viewBox="0 0 128 128">
+<script lang="ts">
+	export let className = '';
+</script>
+
+<svg
+	class={className}
+	viewBox="0 0 128 128"
+	role="img"
+	aria-labelledby="logo-title logo-description"
+>
+	<title id="logo-title">Dubbel8</title>
+	<desc id="logo-description"
+		>Dubbel8s logotyp - en teckning av knuten som en klättrare använder för att knyta in sig i sin
+		sele</desc
+	>
 	<path
 		d="m57.2 95.7s5.2 3 6.4 3c0 0 2 12.7 4.1 17.7.4 1 0 2-1 2.4l-4.1 1.7c0-.1-5.4-21.2-5.4-24.8z"
 		fill="#000"
