@@ -10,14 +10,14 @@
 </script>
 
 <script>
+	import Head from '$lib/head.svelte';
+
 	export let status;
 	export let message;
 </script>
 
-<svelte:head>
-	<title>Sidan hittades inte &bull; Dubbel8</title>
-</svelte:head>
+<Head title="Sidan hittades inte" />
 
 <h1>{status}</h1>
 
-<p>{message}</p>
+<p class="intro">{message}</p>
