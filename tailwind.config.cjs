@@ -9,20 +9,6 @@ module.exports = {
 					300: '#fc0',
 					400: '#eb0'
 				}
-			},
-			fontFamily: {
-				serif: [
-					'Roboto Slab',
-					'system-ui',
-					'-apple-system',
-					'Segoe UI',
-					'Roboto',
-					'Helvetica',
-					'Arial',
-					'sans-serif',
-					'Apple Color Emoji',
-					'Segoe UI Emoji'
-				]
 			}
 		}
 	}

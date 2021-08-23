@@ -7,7 +7,7 @@
 
 <a href="#content" class="sr-only focus:not-sr-only ">Hoppa till innehåll</a>
 
-<div class="lg:grid min-h-screen font-serif">
+<div class="lg:grid min-h-screen">
 	<Header />
 
 	<main id="content" class="container py-4">
