@@ -1,13 +1,9 @@
 <script lang="ts">
-	export let className = '';
+	let clazz = '';
+	export { clazz as class };
 </script>
 
-<svg
-	class={className}
-	viewBox="0 0 128 128"
-	role="img"
-	aria-labelledby="logo-title logo-description"
->
+<svg class={clazz} viewBox="0 0 128 128" role="img" aria-labelledby="logo-title logo-description">
 	<title id="logo-title">Dubbel8</title>
 	<desc id="logo-description"
 		>Dubbel8s logotyp - en teckning av knuten som en klättrare använder för att knyta in sig i sin

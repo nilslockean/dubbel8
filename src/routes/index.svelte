@@ -1,5 +1,6 @@
 <script>
 	import Head from '$lib/head.svelte';
+	import Lipsum from '$lib/lipsum.svelte';
 </script>
 
 <Head title="Dubbel8" />
@@ -13,3 +14,5 @@
 </p>
 
 <a class="button" href="/prova-pa">Prova på</a>
+
+<Lipsum />
