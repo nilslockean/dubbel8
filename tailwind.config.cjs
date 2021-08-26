@@ -10,6 +10,9 @@ module.exports = {
 					400: '#eb0'
 				}
 			}
+		},
+		fontFamily: {
+			sans: ['Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif']
 		}
 	},
 	plugins: [
