@@ -7,6 +7,7 @@
 	export { clazz as class };
 
 	const isHome = $page.path === '/';
+
 	let visible = !isHome;
 
 	onMount(() => {
@@ -74,5 +75,11 @@
 	svg.solid path {
 		fill: #000;
 		stroke: none;
+	}
+	@media (max-width: 760px) {
+		svg path {
+			fill: #000;
+			stroke: none;
+		}
 	}
 </style>
