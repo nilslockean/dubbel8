@@ -15,5 +15,5 @@
 	{#if webp}
 		<source srcset={webp} type="image/webp" />
 	{/if}
-	<img {src} {alt} class="rounded-xl object-cover h-full" />
+	<img {src} {alt} class="rounded-xl object-cover" />
 </picture>
