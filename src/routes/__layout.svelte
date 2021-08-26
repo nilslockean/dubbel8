@@ -13,7 +13,7 @@
 	</header>
 
 	<main id="content" class="container py-4 lg:overflow-y-auto">
-		<div class="max-w-screen-md my-4 md:my-20 mx-auto md:px-8">
+		<div class="max-w-5xl my-4 md:my-20 mx-auto md:px-8">
 			<NoScript />
 			<slot />
 		</div>
@@ -21,7 +21,7 @@
 
 	<footer class="bg-black text-white text-sm">
 		<div class="px-4 py-2">
-			&copy; Nils Lockean {year}
+			&copy; Dubbel8 {year}
 		</div>
 	</footer>
 </div>

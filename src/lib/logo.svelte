@@ -7,7 +7,6 @@
 	export { clazz as class };
 
 	const isHome = $page.path === '/';
-
 	let visible = !isHome;
 
 	onMount(() => {
@@ -27,7 +26,7 @@
 		'm66.3 54.1s1.2-36.4-2.5-40 4.8-2.5 4.8-2.5 2.5 7.3 2.5 21.8v13.6c0 .5-.2.9-.5 1.2-1 1.3-3.4 4-4.3 5.9z'
 	];
 
-	export let solid = !isHome;
+	let solid = !isHome;
 	const handleDrawEnd = () => {
 		solid = true;
 	};

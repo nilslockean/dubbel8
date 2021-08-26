@@ -11,7 +11,7 @@
 	};
 </script>
 
-<div class="flex lg:flex-col">
+<div class="flex lg:flex-col lg:mb-8">
 	<a href="/" class="p-2 lg:my-8 w-16 h-16 md:w-28 md:h-28 lg:w-44 lg:h-44 m-auto rounded-lg">
 		<Logo class="flex-shrink-0" />
 	</a>
