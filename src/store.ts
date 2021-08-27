@@ -14,3 +14,8 @@ export const navigation: Readable<Navigation> = readable([
 	{ path: '/om', title: 'Om oss' },
 	{ path: '/kontakt', title: 'Kontakt' }
 ]);
+
+export const footerNavigation: Readable<Navigation> = readable([
+	{ path: '/gdpr', title: 'Integritetspolicy' },
+	{ path: '/villkor', title: 'Bokningsvillkor' }
+]);
