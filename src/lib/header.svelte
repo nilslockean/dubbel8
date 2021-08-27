@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { slide } from 'svelte/transition';
-	import Logo from './logo.svelte';
+	import Logo from './logo/index.svelte';
 	import Nav from './nav/index.svelte';
 	import MobileNav from './nav/mobile.svelte';
 	import NavButton from './nav/button.svelte';
