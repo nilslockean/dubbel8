@@ -1,25 +1,19 @@
 <script>
 	import Head from '$lib/head.svelte';
 	import Img from '$lib/img.svelte';
+	import CTA from '$lib/cta.svelte';
 </script>
 
 <Head title="Dubbel8" />
 
-<div class="text-center mb-8 md:text-left">
-	<h1>Dubbel8</h1>
-	<div class="md:flex flex-row items-start md:space-x-4">
-		<div class="md:w-2/3">
-			<p class="intro">
-				Upplev Skåne på höjden med Dubbel8! Vi erbjuder prova på-klättringar vid Snuvestuan för både
-				nybörjare och mer avancerade deltagare. <a href="/prova-pa">Läs mer om vad som ingår</a>
-				eller <a href="/bokning">boka ditt eget klätterpaket</a>. Perfekt för dig som är vertikalt
-				nyfiken och söker en engagerande naturupplevelse utöver det vanliga!
-			</p>
-		</div>
-
-		<a class="md:w-1/3 button w-full text-center md:mt-6" href="/prova-pa">Prova på</a>
-	</div>
-</div>
+<CTA title="Dubbel8" href="/prova-pa" btnText="Prova på">
+	<p>
+		Upplev Skåne på höjden med Dubbel8! Vi erbjuder prova på-klättringar vid Snuvestuan för både
+		nybörjare och mer avancerade deltagare. <a href="/prova-pa">Läs mer om vad som ingår</a>
+		eller <a href="/bokning">boka ditt eget klätterpaket</a>. Perfekt för dig som är vertikalt
+		nyfiken och söker en engagerande naturupplevelse utöver det vanliga!
+	</p>
+</CTA>
 
 <div class="flex flex-col space-y-4 md:flex-row md:space-y-0 md:space-x-4">
 	<Img

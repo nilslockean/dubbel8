@@ -15,15 +15,18 @@
 		@apply text-5xl md:text-6xl lg:text-7xl;
 	}
 	h2 {
-		@apply text-xl;
+		@apply text-2xl md:text-3xl lg:text-4xl;
+	}
+	h3 {
+		@apply text-xl lg:text-2xl;
 	}
 
 	.container {
 		@apply mx-auto px-4;
 	}
 
-	.intro {
-		@apply text-xl my-4 font-medium leading-relaxed;
+	.intro p {
+		@apply text-xl font-medium leading-relaxed;
 	}
 
 	.button {
@@ -32,5 +35,17 @@
 
 	main a:not(.button) {
 		text-decoration: underline;
+	}
+
+	ul {
+		@apply list-disc ml-4 mt-2;
+	}
+
+	figcaption {
+		@apply text-sm text-center pt-2;
+	}
+
+	.box {
+		@apply bg-gray-100 px-4 py-2 mt-4 rounded;
 	}
 }
