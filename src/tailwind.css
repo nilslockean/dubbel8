@@ -12,7 +12,7 @@
 		font-weight: bold;
 	}
 	h1 {
-		@apply text-5xl md:text-6xl lg:text-7xl;
+		@apply text-5xl lg:text-6xl;
 	}
 	h2 {
 		@apply text-2xl md:text-3xl lg:text-4xl;
@@ -47,5 +47,9 @@
 
 	.box {
 		@apply bg-gray-100 px-4 py-2 mt-4 rounded;
+	}
+
+	img {
+		@apply rounded-xl;
 	}
 }
