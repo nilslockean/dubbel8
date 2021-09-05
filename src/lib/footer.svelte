@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { page } from '$app/stores';
 	import { footerNavigation } from '../store';
+	import SocialNav from './nav/social.svelte';
 	const year = new Date().getFullYear();
 </script>
 
@@ -19,6 +20,9 @@
 	</nav>
 	<div class="my-2 md:text-right">
 		&copy; Dubbel8 {year}
+	</div>
+	<div class="lg:hidden md:col-span-2">
+		<SocialNav fill="#fff" />
 	</div>
 </div>
 

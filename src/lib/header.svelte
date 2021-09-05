@@ -4,6 +4,7 @@
 	import Nav from './nav/index.svelte';
 	import MobileNav from './nav/mobile.svelte';
 	import NavButton from './nav/button.svelte';
+	import SocialNav from './nav/social.svelte';
 
 	export let isNavDrawerVisible = false;
 	export const handleClick = () => {
@@ -19,6 +20,10 @@
 	<div class="flex-grow flex justify-end lg:justify-center">
 		<NavButton {handleClick} active={isNavDrawerVisible} />
 		<Nav />
+	</div>
+
+	<div class="hidden lg:block mt-8">
+		<SocialNav />
 	</div>
 </div>
 
