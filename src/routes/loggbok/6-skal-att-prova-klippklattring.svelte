@@ -54,7 +54,7 @@
 			loading="lazy"
 			width="1024"
 			height="717"
-			src="/img/alice-uvhallsklack-krux-1906-1024x717.jpg"
+			src="/img/alice-uvhallsklack-krux-1906-1024x717.jpeg"
 			alt="Alice sträcker sig efter handgreppet på Uvhällsklack"
 		/>
 	</figure>
