@@ -1,24 +1,18 @@
-<script>
-	import InstagramSquare from '../icon/instagram-square.svelte';
-	import FacebookSquare from '../icon/facebook-square.svelte';
-
-	export let fill = '';
+<script lang="ts">
+	import Icon from '../icon/index.svelte';
 </script>
 
 <nav class="text-center">
 	<a href="https://instagram.com/dubbel8" title="Följ oss på Instagram">
-		<InstagramSquare {fill} />
+		<Icon name="instagram-square" />
 	</a>
 	<a href="https://facebook.com/dubbel8" title="Följ oss på Facebook">
-		<FacebookSquare {fill} />
+		<Icon name="facebook-square" />
 	</a>
 </nav>
 
 <style>
 	nav a {
-		width: 2rem;
-		height: 2rem;
-		display: inline-block;
-		padding: 0.25rem;
+		font-size: 2rem;
 	}
 </style>

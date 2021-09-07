@@ -3,7 +3,10 @@
 	import Header from '$lib/header.svelte';
 	import Footer from '$lib/footer.svelte';
 	import NoScript from '$lib/noscript.svelte';
+	import Symbols from '$lib/icon/symbols.svelte';
 </script>
+
+<Symbols />
 
 <a href="#content" class="sr-only focus:not-sr-only">Hoppa till innehåll</a>
 
