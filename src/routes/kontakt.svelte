@@ -1,6 +1,7 @@
 <script>
 	import Head from '$lib/head.svelte';
 	import CTA from '$lib/cta.svelte';
+	import Icon from '$lib/icon/index.svelte';
 </script>
 
 <Head title="Kontakt" />
@@ -13,4 +14,6 @@
 	</p>
 </CTA>
 
-<a class="button text-center w-full md:w-1/3" href="mailto:hej@dubbel8.se">hej@dubbel8.se</a>
+<a class="button text-center w-full md:w-1/3" href="mailto:hej@dubbel8.se">
+	<Icon name="envelope" baseline class="mr-2" /> hej@dubbel8.se
+</a>

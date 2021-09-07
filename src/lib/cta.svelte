@@ -1,8 +1,10 @@
 <script lang="ts">
+	import Icon from './icon/index.svelte';
 	export let title: string;
 	export let href = '';
 	export let btnText = '';
 	export let h2 = false;
+	export let icon = '';
 </script>
 
 <div class:mb-8={!h2}>
@@ -20,6 +22,9 @@
 			</div>
 
 			<a class="md:w-1/3 button w-full text-center mt-6 md:mt-0" {href}>
+				{#if icon}
+					<Icon name={icon} baseline class="mr-1" />
+				{/if}
 				{btnText || title}
 			</a>
 		</div>

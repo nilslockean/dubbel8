@@ -6,7 +6,7 @@
 
 <Head title="Dubbel8" />
 
-<CTA title="Dubbel8" href="/prova-pa" btnText="Prova på">
+<CTA title="Dubbel8" href="/prova-pa" btnText="Prova på!" icon="toprope-climber">
 	<p>
 		Upplev Skåne på höjden med Dubbel8! Vi erbjuder prova på-klättringar vid Snuvestuan för både
 		nybörjare och mer avancerade deltagare. <a href="/prova-pa">Läs mer om vad som ingår</a>

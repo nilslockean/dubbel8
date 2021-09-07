@@ -15,7 +15,13 @@
 </CTA>
 
 <div class="px-6 py-8 bg-gray-100 rounded-lg mt-8">
-	<CTA h2 title="Bokningsförfrågan" href="mailto:hej@dubbel8.se" btnText="hej@dubbel8.se">
+	<CTA
+		h2
+		title="Bokningsförfrågan"
+		href="mailto:hej@dubbel8.se"
+		btnText="hej@dubbel8.se"
+		icon="rope"
+	>
 		<p>
 			<strong>Anpassa dagen efter era önskemål.</strong> Ni väljer själva hur dags ni vill börja, hur
 			länge ni vill vara ute och vad ni vill ska ingå i er klätterdag.
