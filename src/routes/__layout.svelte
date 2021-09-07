@@ -8,10 +8,11 @@
 
 <Symbols />
 
-<a href="#content" class="sr-only focus:not-sr-only">Hoppa till innehåll</a>
-
 <div class="lg:grid bg-white lg:min-h-screen lg:max-h-screen">
 	<header class="bg-yellow-300 lg:overflow-y-auto">
+		<a href="#content" class="button sr-only focus:not-sr-only p-8 m-8 block text-center"
+			>Hoppa till innehåll</a
+		>
 		<Header />
 	</header>
 
