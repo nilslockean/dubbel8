@@ -15,5 +15,5 @@
 </CTA>
 
 <a class="button text-center w-full md:w-1/3" href="mailto:hej@dubbel8.se">
-	<Icon name="envelope" baseline class="mr-2" /> hej@dubbel8.se
+	<Icon name="mail" baseline class="mr-2" /> hej@dubbel8.se
 </a>
