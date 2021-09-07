@@ -2,6 +2,7 @@
 	import CTA from '$lib/cta.svelte';
 	import CTABokning from '$lib/cta-bokning.svelte';
 	import Head from '$lib/head.svelte';
+	import IconList from '$lib/iconList.svelte';
 </script>
 
 <Head title="Prova på" />
@@ -28,24 +29,29 @@
 <div class="md:grid md:grid-cols-2 md:space-x-4 my-8">
 	<div class="mb-4 md:mb-0">
 		<h3 class="mb-2">Detta ingår</h3>
-		<ul>
-			<li>
-				<a href="/om#ledare">Klätterledare</a> utbildade enligt Svenska klätterförbundets norm
-			</li>
-			<li>Utrustning (klättersele, hjälm och skor)</li>
-			<li>Flera klätterturer i olika svårighetsgrader med rep</li>
-			<li>Säkerhetsgenomgång och kommandon</li>
-			<li>Grundläggande utrustningskunskap</li>
-			<li>Genomgång av grundläggande klätterteknik</li>
-		</ul>
+		<IconList
+			items={[
+				{
+					text: `<a href="/om#ledare">Klätterledare</a> utbildade enligt Svenska klätterförbundets norm`,
+					icon: 'torsos-female-male'
+				},
+				{ text: 'Utrustning (klättersele, hjälm och skor)', icon: 'harness' },
+				{ text: 'Flera klätterturer i olika svårighetsgrader med rep', icon: 'toprope-climber' },
+				{ text: 'Säkerhetsgenomgång och kommandon', icon: 'helmet' },
+				{ text: 'Grundläggande utrustningskunskap', icon: 'carabiner' },
+				{ text: 'Genomgång av grundläggande klätterteknik', icon: 'shoe' }
+			]}
+		/>
 	</div>
 	<div>
 		<h3 class="mb-2">Du står själv för</h3>
-		<ul>
-			<li>Transport till och från parkeringen</li>
-			<li>Mat och fika till dig själv</li>
-			<li>Kläder efter väder</li>
-		</ul>
+		<IconList
+			items={[
+				{ text: 'Transport till och från parkeringen', icon: 'marker' },
+				{ text: 'Mat och fika till dig själv', icon: 'trees' },
+				{ text: 'Kläder efter väder', icon: 'cloud' }
+			]}
+		/>
 		<div class="bg-gray-100 px-4 py-2 mt-4 rounded">
 			<p>
 				Har du egen utrustning såsom klätterskor eller sele uppmuntrar vi dig att ta med dina egna
