@@ -9,7 +9,7 @@
 	<nav class="my-2 md:text-left">
 		{#each $footerNavigation as { title, path }, i}
 			<a
-				class:text-yellow-100={$page.path === path}
+				class:text-yellow-100={$page.url.pathname === path}
 				href={path}
 				class="underline hover:text-yellow-100">{title}</a
 			>

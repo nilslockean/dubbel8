@@ -6,7 +6,7 @@
 	let clazz = '';
 	export { clazz as class };
 
-	const isHome = $page.path === '/';
+	const isHome = $page.url.pathname === '/';
 	let visible = !isHome;
 
 	onMount(() => {

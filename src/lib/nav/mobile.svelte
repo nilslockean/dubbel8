@@ -9,7 +9,7 @@
 	{#each $navigation as { title, path }}
 		<a
 			on:mouseup={onMouseUp}
-			class:active={$page.path === path}
+			class:active={$page.url.pathname === path}
 			href={path}
 			class="whitespace-nowrap font-bold uppercase p-4 items-center">{title}</a
 		>
