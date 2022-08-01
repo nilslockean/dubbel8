@@ -46,7 +46,7 @@ Denna behandling av dina personuppgifter är nödvändig för att vi ska kunna f
 
 #### Lagringsperiod
 
-Vi behandlar och lagrar dina personuppgifter för detta ändamål i 3 år räknat från och med att kundensa relation anses avslutad.
+Vi behandlar och lagrar dina personuppgifter för detta ändamål i 3 år räknat från och med att kundens relation anses avslutad.
 
 ### 1.2 Marknadsföring
 
@@ -58,7 +58,9 @@ Vi behandlar följande kategorier av personuppgifter i marknadsföringssyfte: na
 
 #### Personuppgiftsbehandlingar som utförs i marknadsföringssyfte
 
-Vi behandlar personuppgifterna i marknadsföringssyfte på följande sätt: e-post. Från vilka källor hämtar vi dina personuppgifter?
+Vi behandlar personuppgifterna i marknadsföringssyfte på följande sätt: e-post.
+
+#### Från vilka källor hämtar vi dina personuppgifter?
 
 Personuppgifterna som vi behandlar i marknadsföringssyfte har lämnats av dig.
 
@@ -102,7 +104,7 @@ Inga. Vi lämnar aldrig ut dina uppgifter utan ditt tillstånd.
 
 #### Laglig grund:
 
-Den legala grunden för personuppgiftsbehandlingen är vårt berättigade intresse att produktutveckla våra tjänster. Denna behandling gör vi med stöd av en så kallade intresseavvägning där vi bedömer att behandlingen inte kränker din integritet på väsentligt sätt.
+Den legala grunden för personuppgiftsbehandlingen är vårt berättigade intresse att produktutveckla våra tjänster. Denna behandling gör vi med stöd av en så kallad intresseavvägning där vi bedömer att behandlingen inte kränker din integritet på väsentligt sätt.
 
 #### Din rätt att motsätta dig behandlingen
 
@@ -136,7 +138,7 @@ Följande bolag kan komma att få tillgång till dina personuppgifter inom ramen
 
 #### Laglig grund:
 
-Den legala grunden för personuppgiftsbehandlingen är vårt berättigade intresse att föra statistik. Denna behandling gör vi med stöd av en så kallade intresseavvägning där vi bedömer att behandlingen inte kränker din integritet på väsentligt sätt.
+Den legala grunden för personuppgiftsbehandlingen är vårt berättigade intresse att föra statistik. Denna behandling gör vi med stöd av en så kallad intresseavvägning där vi bedömer att behandlingen inte kränker din integritet på väsentligt sätt.
 
 #### Din rätt att motsätta dig behandlingen
 
@@ -144,11 +146,7 @@ Vi värnar om din integritet och lovar att inte behandla dina personuppgifter f�
 
 #### Lagringsperiod:
 
-Vi behandlar dina personuppgifter för detta ändamål i 3 år räknat från (ange en annan tidpunkt).
-
-#### Lagringsperiod:
-
-Vi behandlar dina personuppgifter för detta ändamål i 3 år räknat ifrån följande tidpunkt: Från och med första besök på hemsidan.
+Vi behandlar dina personuppgifter för detta ändamål i 3 år räknat från och med ditt första besök på hemsidan.
 
 ### 2. Känsliga personuppgifter
 
@@ -222,7 +220,7 @@ Om du har frågor om vår behandling av personuppgifter går det bra att skicka 
 
 ### 8. Ändringar i denna policy
 
-Om vi ändrar vår integritetspolicy kommer vi att publicera den uppdaterade policyn här, med datum för ändringen. Vid betydande ändringar av vår policy som förändrar våra integritets principer väsentligt kan vi även komma att meddela dig på annat sätt, till exempel via e-post eller genom att publicera ett meddelande på vår webbplats att ändringen träder i kraft.
+Om vi ändrar vår integritetspolicy kommer vi att publicera den uppdaterade policyn här, med datum för ändringen. Vid betydande ändringar av vår policy som förändrar våra integritetsprinciper väsentligt kan vi även komma att meddela dig på annat sätt, till exempel via e-post eller genom att publicera ett meddelande på vår webbplats att ändringen träder i kraft.
 
 Denna integritetspolicy trädde i kraft 2022-07-01.
 
