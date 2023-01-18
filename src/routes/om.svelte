@@ -20,8 +20,13 @@
 <div class="max-w-prose">
 	<h2>Våra klätterledare</h2>
 	<p class="mt-4">
-		Dubbel8 drivs av Lina och Nils Lockean som båda är utbildade klätterledare enligt Svenska
-		klätterförbundets norm. Vi har hängt ihop i över 10 år och har drivit företag ihop i 5 av dem.
+		Dubbel8 drivs av Lina och Nils Lockean som båda är examinerade <a href="#klatterledare"
+			>klätterledare</a
+		>. Vi har varit tillsammans sedan 2012 och drivit företag ihop sedan 2016.
+	</p>
+	<p class="mt-4">
+		Som ett led på vägen mot att bli auktoriserad klippklätterinstruktör är Nils utöver
+		klätterledare både topprepsinstruktör inomhus och hjälpinstruktör sport.
 	</p>
 
 	<div class="mt-8 flex flex-col space-y-4 md:flex-row md:space-y-0 md:space-x-4">
@@ -35,7 +40,7 @@
 		</figure>
 	</div>
 
-	<h2 class="mt-8">Vad är en klätterledare?</h2>
+	<h2 class="mt-8" id="klatterledare">Vad är en klätterledare?</h2>
 	<p class="mt-4">
 		Klätterledare är en utbildningsnorm som Svenska Klätterförbundet införde år 2015 för att ge de
 		lokala klätterklubbarna självförtroende och kunskap att bedriva klätterverksamhet utomhus. Det
