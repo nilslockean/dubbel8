@@ -1,4 +1,6 @@
-# create-svelte
+# dubbel8.se
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4b8d56d8-e10e-4369-ae25-72ee021d74f3/deploy-status)](https://app.netlify.com/sites/dubbel8/deploys)
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
 
