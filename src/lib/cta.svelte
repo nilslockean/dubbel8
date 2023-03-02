@@ -11,7 +11,7 @@
 	{#if h2}
 		<h2>{title}</h2>
 	{:else}
-		<h1>{title}</h1>
+		<h1 class="pb-3">{title}</h1>
 	{/if}
 	{#if href}
 		<div class="md:flex flex-row items-start md:space-x-4 mt-4">

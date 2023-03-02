@@ -1,4 +1,4 @@
-import { readable, Readable } from 'svelte/store';
+import { readable, type Readable } from 'svelte/store';
 
 export type NavItem = {
 	path: string;
@@ -16,7 +16,6 @@ export const navigation: Readable<Navigation> = readable([
 ]);
 
 export const footerNavigation: Readable<Navigation> = readable([
-	{ path: '/loggbok', title: 'Loggbok' },
 	{ path: '/gdpr', title: 'Integritetspolicy' },
 	{ path: '/villkor', title: 'Bokningsvillkor' }
 ]);
