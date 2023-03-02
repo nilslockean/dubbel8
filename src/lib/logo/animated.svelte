@@ -40,10 +40,10 @@
 		role="img"
 		aria-labelledby="logo-title logo-description"
 	>
-		<title id="logo-title">Dubbel8</title>
+		<title id="logo-title">Dubbelåtta</title>
 		<desc id="logo-description"
-			>Dubbel8s logotyp - en teckning av knuten som en klättrare använder för att knyta in sig i sin
-			sele</desc
+			>Dubbelåttas logotyp - en teckning av knuten som en klättrare använder för att knyta in sig i
+			sin sele</desc
 		>
 		{#each paths as d, i}
 			<path

@@ -19,7 +19,7 @@
 		{/each}
 	</nav>
 	<div class="my-2 md:text-right">
-		&copy; Dubbel8 {year}
+		&copy; Dubbelåtta {year}
 	</div>
 	<div class="lg:hidden md:col-span-2">
 		<SocialNav fill="#fff" />

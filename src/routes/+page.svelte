@@ -4,11 +4,11 @@
 	import CTA from '$lib/cta.svelte';
 </script>
 
-<Head title="Dubbel8" />
+<Head title="Dubbelåtta" />
 
-<CTA title="Dubbel8" href="/prova-pa" btnText="Prova på!" icon="toprope-climber">
+<CTA title="Dubbelåtta" href="/prova-pa" btnText="Prova på!" icon="toprope-climber">
 	<p>
-		Upplev Skåne på höjden med Dubbel8! Vi erbjuder prova på-klättringar vid Snuvestuan för både
+		Upplev Skåne på höjden med Dubbelåtta! Vi erbjuder prova på-klättringar vid Snuvestuan för både
 		nybörjare och mer avancerade deltagare. <a href="/prova-pa">Läs mer om vad som ingår</a>
 		eller <a href="/bokning">boka ditt eget klätterpaket</a>. Perfekt för dig som är vertikalt
 		nyfiken och söker en engagerande naturupplevelse utöver det vanliga!

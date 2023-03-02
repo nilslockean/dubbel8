@@ -3,9 +3,9 @@
 </script>
 
 <svelte:head>
-	{#if title === 'Dubbel8'}
-		<title>{title} &bull; Reko klätterupplevelser på Skånes klippor</title>
+	{#if title === 'Dubbelåtta'}
+		<title>{title} &bull; Klättra först, jobba sen</title>
 	{:else}
-		<title>{title} &bull; Dubbel8</title>
+		<title>{title} &bull; Dubbelåtta</title>
 	{/if}
 </svelte:head>

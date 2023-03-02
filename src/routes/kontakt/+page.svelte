@@ -8,7 +8,7 @@
 
 <CTA title="Kontakta oss">
 	<p>
-		Är du också vertikalt nyfiken? Dubbel8 erbjuder reko klätterupplevelser på Skånes klippor. Vi
+		Är du också vertikalt nyfiken? Dubbelåtta erbjuder reko klätterupplevelser på Skånes klippor. Vi
 		håller till på vackra Söderåsen och anordnar prova på-klättringar på riktig sten för såväl
 		nybörjare som den mer erfarna. Hör av dig om du vill följa med!
 	</p>

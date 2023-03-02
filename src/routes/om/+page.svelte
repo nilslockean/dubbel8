@@ -7,9 +7,9 @@
 
 <Head title="Om" />
 
-<CTA title="Om Dubbel8">
+<CTA title="Om Dubbelåtta">
 	<p>
-		Dubbel8 är en klätterföretag med fokus på reko naturupplevelser i Skåne. Vi håller till på
+		Dubbelåtta är en klätterföretag med fokus på reko naturupplevelser i Skåne. Vi håller till på
 		Söderåsen där lummiga skogar möter kala klippor. Skåne är inte så platt som du tror och vi vill
 		visa att den lokala klättringen är en grym kombo av friluftsliv, gött häng och äventyr. Vårt mål
 		är att göra insteget till klippklättring roligt och säkert för såväl nybörjare som den mer
@@ -20,7 +20,7 @@
 <div class="max-w-prose">
 	<h2>Våra klätterledare</h2>
 	<p class="mt-4">
-		Dubbel8 drivs av Lina och Nils Lockean som båda är examinerade <a href="#klatterledare"
+		Dubbelåtta drivs av Lina och Nils Lockean som båda är examinerade <a href="#klatterledare"
 			>klätterledare</a
 		>. Vi har varit tillsammans sedan 2012 och drivit företag ihop sedan 2016.
 	</p>
@@ -44,9 +44,9 @@
 	<p class="mt-4">
 		Klätterledare är en utbildningsnorm som Svenska Klätterförbundet införde år 2015 för att ge de
 		lokala klätterklubbarna självförtroende och kunskap att bedriva klätterverksamhet utomhus. Det
-		finns inget regelverk som tvingar privata aktörer såsom Dubbel8 att använda sig av klätterledare
-		i sina arrangemang men vi har valt att examineras som klätterledare då vi är måna om att hålla
-		en hög nivå på vårt säkerhetsarbete.
+		finns inget regelverk som tvingar privata aktörer såsom Dubbelåtta att använda sig av
+		klätterledare i sina arrangemang men vi har valt att examineras som klätterledare då vi är måna
+		om att hålla en hög nivå på vårt säkerhetsarbete.
 	</p>
 	<div class="box mt-4">
 		OBS! Klätterledare är inte samma sak som instruktör. Vi samarbetar med några av Sveriges mest

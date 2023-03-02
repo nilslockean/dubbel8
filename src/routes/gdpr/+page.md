@@ -14,7 +14,7 @@ title: Integritetspolicy
 
 Vi vill att du ska känna dig trygg när du lämnar dina personuppgifter till oss och vi värnar om din personliga integritet. Denna integritetspolicy förklarar hur vi samlar in och använder dina personuppgifter. Den beskriver också dina rättigheter gentemot oss och hur du kan göra dina rättigheter gällande.
 
-Personuppgiftsansvarig är Dubbel8, organisationsnummer 559044-7396, Bredgatan 2, 22221, Lund (benämns hädanefter som “Bolaget”). Bolaget driver hemsidan www.dubbel8.se.
+Personuppgiftsansvarig är Dubbelåtta, organisationsnummer 559044-7396, Bredgatan 2, 22221, Lund (benämns hädanefter som “Bolaget”). Bolaget driver hemsidan www.dubbel8.se.
 
 Som personuppgiftsansvarig är det vårt ansvar att se till så att dina uppgifter hanteras på ett korrekt och säkert sätt enligt tillämplig lagstiftning.
 
@@ -22,9 +22,9 @@ I denna integritetspolicy använder vi begreppet “personuppgifter” för att 
 
 ## 1. Vilken information vi samlar in och varför
 
-### 1.1 Dubbel8s kurser & evenemang
+### 1.1 Dubbelåttas kurser & evenemang
 
-Ändamål: För att kunna tillhandahålla Dubbel8s kurser & evenemang (benämns hädanefter som “Tjänsten”).
+Ändamål: För att kunna tillhandahålla Dubbelåttas kurser & evenemang (benämns hädanefter som “Tjänsten”).
 
 #### Kategorier av personuppgifter
 
@@ -56,7 +56,7 @@ Vi behandlar och lagrar dina personuppgifter för detta ändamål i 3 år räkna
 
 ### 1.2 Marknadsföring
 
-Ändamål: För att marknadsföra Dubbel8s kurser & evenemang.
+Ändamål: För att marknadsföra Dubbelåttas kurser & evenemang.
 
 #### Kategorier av personuppgifter
 
