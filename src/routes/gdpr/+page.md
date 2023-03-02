@@ -4,7 +4,7 @@ title: Integritetspolicy
 
 <div class="prose mx-auto">
 
-## { title }
+# { title }
 
 Vi vill att du ska känna dig trygg när du lämnar dina personuppgifter till oss och vi värnar om din personliga integritet. Denna integritetspolicy förklarar hur vi samlar in och använder dina personuppgifter. Den beskriver också dina rättigheter gentemot oss och hur du kan göra dina rättigheter gällande.
 

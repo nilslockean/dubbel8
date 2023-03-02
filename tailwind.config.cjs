@@ -1,6 +1,5 @@
 module.exports = {
-	purge: ['./src/**/*.svelte'],
-	mode: 'jit',
+	content: ['./src/**/*.svelte'],
 	// darkMode: 'media', // or false or 'class'
 	theme: {
 		extend: {
@@ -19,7 +18,4 @@ module.exports = {
 		require('@tailwindcss/typography')
 		// ...
 	]
-	// variants: {
-	// 	extend: {}
-	// }
 };
