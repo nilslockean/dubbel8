@@ -2,6 +2,12 @@
 title: Bokningsvillkor
 ---
 
+<script>
+	import Head from '$lib/head.svelte';
+</script>
+
+<Head title={ title } />
+
 <div class="prose mx-auto">
 
 # {title}
