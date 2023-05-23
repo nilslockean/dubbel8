@@ -26,7 +26,7 @@
 	</p>
 	<p class="mt-4">
 		Som ett led på vägen mot att bli auktoriserad klippklätterinstruktör är Nils utöver
-		klätterledare både topprepsinstruktör inomhus och hjälpinstruktör sport.
+		klätterledare både ledklätterinstruktör inomhus och hjälpinstruktör klippa.
 	</p>
 
 	<div class="mt-8 flex flex-col space-y-4 md:flex-row md:space-y-0 md:space-x-4">
