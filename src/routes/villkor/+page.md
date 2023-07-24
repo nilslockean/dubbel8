@@ -12,7 +12,7 @@ title: Bokningsvillkor
 
 # {title}
 
-Dessa villkor reglerar förhållandet mellan Dubbelåtta AB, org.nr. 559044-7396 (”Dubbelåtta″, “vi” eller “vår”) och den som närvarar (”deltagaren” eller ”du”) vid en av Dubbelåtta anordnad aktivitet eller kurs (“evenemang”).
+Dessa villkor reglerar förhållandet mellan Dubbelåtta AB, org.nr. 559044-7396 (”Dubbelåtta”, “vi” eller “vår”) och den som närvarar (”deltagaren” eller ”du”) vid en av Dubbelåtta anordnad aktivitet eller kurs (“evenemang”).
 
 ## Betalning
 
@@ -20,11 +20,11 @@ Kostnaden för evenemanget ges antingen genom offert eller prisangivelse på vå
 
 ## Ansvar
 
-**Deltagaren ansvarar själv för att ha en giltig olycksfallsförsäkring som täcker klättring. Teckna [Svenska Klätterförbundets medlemsförsäkring (Folksam K61940, kat 1)](https://www.folksam.se/forsakringar/idrottsforsakring/klattring) genom att gå med i din lokala klätterklubb i god tid innan evenemanget.**
+Deltagaren täcks av vår ansvarsförsäkring men uppmanas att innan evenemanget gå med i sin [lokala klätterklubb](https://skaneskk.se/information/medlemskaptraningskort/show) för att få ta del av [Svenska Klätterförbundets medlemsförsäkring (Folksam K61940, kat 1)](https://www.folksam.se/forsakringar/idrottsforsakring/klattring).
 
-Dubbelåtta ansvarar inte för deltagares kläder värdesaker i anslutning till evenemanget. Skador som uppkommer på Dubbelåttas utrustning som används under evenemanget står Dubbelåtta för, förutsatt att deltagaren inte är grovt oaktsam och därmed orsakar skada på utrustning. Dubbelåtta förbehåller sig rätten att avgöra vad som kan ses som grov oaktsamhet och vilken ersättning som skall utgå för skadad utrustning.
+Dubbelåtta ansvarar inte för deltagares kläder eller värdesaker i anslutning till evenemanget. Skador som uppkommer på Dubbelåttas utrustning som används under evenemanget står Dubbelåtta för, förutsatt att deltagaren inte är grovt oaktsam och därmed orsakar skada på utrustning. Dubbelåtta förbehåller sig rätten att avgöra vad som kan ses som grov oaktsamhet och vilken ersättning som skall utgå för skadad utrustning.
 
-All klättring sker på eget ansvar. Vi ansvarar för att utrustning som används har kontrollerats tar inför varje evenemang fram en säkerhetsplan för att förebygga olyckor, i enlighet med produktsäkerhetslagen ([PSL](https://bergsport.se/2015/11/12/om-klattring-och-produktsakerhetslagen/)).
+Vi ansvarar för att utrustning som används har kontrollerats och tar inför varje evenemang fram en säkerhetsplan för att förebygga olyckor, i enlighet med produktsäkerhetslagen ([PSL](https://bergsport.se/2015/11/12/om-klattring-och-produktsakerhetslagen/)).
 
 **Minderåriga endast i målsmans sällskap.** Målsman ansvarar för den minderårige. Åldersgräns för samtliga evenemang är 13 år.
 
