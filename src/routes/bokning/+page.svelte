@@ -1,6 +1,8 @@
 <script lang="ts">
 	import Head from '$lib/head.svelte';
 	import CTA from '$lib/cta.svelte';
+	import Price from '$lib/price.svelte';
+	import Calculator from '$lib/calculator.svelte';
 </script>
 
 <Head title="Bokning" />
@@ -13,6 +15,8 @@
 		er.
 	</p>
 </CTA>
+
+<Calculator />
 
 <div class="px-6 py-8 bg-gray-100 rounded-lg mt-8">
 	<CTA
@@ -27,14 +31,7 @@
 			länge ni vill vara ute och vad ni vill ska ingå i er klätterdag.
 		</p>
 
-		<h3 class="text-base mt-4">Pris /dag inkl. moms:</h3>
-		<ul>
-			<li>
-				2 personer - <strong>1 600 kr</strong> (800 kr /person)
-			</li>
-			<li>3-4 personer - <strong>2 400 kr</strong> (600-800 kr /person)</li>
-			<li>5-6 personer - <strong>3 000 kr</strong> (500-600 kr /person)</li>
-		</ul>
+		<Price />
 
 		<p class="mt-4">
 			Boka genom att skicka ett mail till <a href="mailto:hej@dubbel8.se">hej@dubbel8.se</a>.
