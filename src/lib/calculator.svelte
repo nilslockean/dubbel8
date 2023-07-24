@@ -19,7 +19,7 @@
 		min="1"
 		{max}
 		bind:value={nParticipants}
-		class="w-full h-2 bg-slate-600 rounded-lg appearance-none cursor-pointer accent-yellow-300"
+		class="w-full h-2 bg-slate-600 rounded-lg appearance-none cursor-pointer accent-yellow-300 [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:h-4 [&::-webkit-slider-thumb]:w-4 [&::-webkit-slider-thumb]:rounded-full  [&::-webkit-slider-thumb]:bg-yellow-300"
 	/>
 
 	<div class="mt-3">
