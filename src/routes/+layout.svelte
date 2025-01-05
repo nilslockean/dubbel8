@@ -4,6 +4,14 @@
 	import Footer from '$lib/footer.svelte';
 	import NoScript from '$lib/noscript.svelte';
 	import Symbols from '$lib/icon/symbols.svelte';
+	import { browser } from '$app/environment';
+	import { beforeNavigate, afterNavigate } from '$app/navigation';
+	import { PosthogClient } from '$lib/utils/PosthogClient';
+
+	if (browser) {
+		beforeNavigate(() => PosthogClient.capturePageLeave());
+		afterNavigate(() => PosthogClient.capturePageView());
+	}
 </script>
 
 <Symbols />
